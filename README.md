@@ -3,7 +3,7 @@ Basic guide to OpenCL. With docker image of the OpenCL intel FPGA SDK  and some 
 
 # Command in docker Step by Step
 
-The docker is located on the ***docker-image*** branch in the ***docker-compiler-images*** folder.
+The ***Dockerfile*** is located on the ***docker-image*** branch in the ***docker-compiler-images*** folder.
 
 To build and run the docker container using the OpenCL Intel FPGA SDK image after cloning the project Open the terminal and go to the folder with the docker image, then follow the next steps:
 

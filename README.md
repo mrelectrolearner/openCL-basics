@@ -1,4 +1,4 @@
-# openCL-basics
+# OpenCL-basics
 Basic guide to OpenCL. With docker image of the OpenCL intel FPGA SDK  and some examples.
 
 # Command in docker Step by Step

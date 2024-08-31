@@ -55,7 +55,7 @@ There are a few OpenCL example applications that you can run:
 
   This example involves solving the Lorenz system of differential equations using OpenCL.
 
-## Compile OpenCL kernel
+## Compile OpenCL host
 Use command 
 ```
 make

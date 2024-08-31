@@ -1,0 +1,15 @@
+export ROOT=/usr/src/programs/intelFPGA/18.1
+
+export QUARTUS_ROOTDIR=$ROOT/quartus 
+
+export INTELFPGAOCLSDKROOT=$ROOT/hld 
+
+export PATH=$PATH:$QUARTUS_ROOTDIR/bin:$ROOT/embedded/ds-5/bin:$ROOT/embedded/ds-5/sw/gcc/bin:$INTELFPGAOCLSDKROOT/bin
+
+export LD_LIBRARY_PATH=$INTELFPGAOCLSDKROOT/arm32/lib 
+
+export AOCL_BOARD_PACKAGE_ROOT=$INTELFPGAOCLSDKROOT/board/terasic/de10_nano 
+
+export QUARTUS_64BIT=1 
+
+export LM_LICENSE_FILE=$ROOT/hld/license.dat

@@ -1,7 +1,7 @@
 # OpenCL-basics
 Basic guide to OpenCL. With docker image of the OpenCL intel FPGA SDK  and some examples.
 
-# Command in docker Step by Step
+# Commands in docker Step by Step
 
 The ***Dockerfile*** is located on the ***docker-image*** branch in the ***docker-compiler-images*** folder.
 

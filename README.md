@@ -1,5 +1,5 @@
 # OpenCL-basics
-Basic guide to OpenCL. With docker image of the OpenCL intel FPGA SDK  and some examples.
+Basic guide to OpenCL. With docker image of the OpenCL Intel FPGA SDK  and some examples. It is configured to compile programs for the DE10 nano, but it could be modified to add other Intel FPGA boards.
 
 # Commands in docker Step by Step
 
